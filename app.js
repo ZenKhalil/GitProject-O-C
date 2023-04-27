@@ -10,4 +10,9 @@ showText(string)
 
 function showText(string) {
     console.log(string);
+helloWorld()
+}
+
+function helloWorld(){
+    console.log("hello Rolf & Mohammed & Simon")
 }
